@@ -35,6 +35,6 @@ Resources - @Unity Team
 
 Levels and scripting - Rayan Khan (@iRayanKhan)
 
-Music: ColdPlay
+Artist: Coldplay
 
 Song: Life in Technicolor ii
