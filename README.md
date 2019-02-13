@@ -29,6 +29,12 @@ Download the Project file (it may come as a zip)
 # Known-Issues:
 - None
 
+# What's Different:
+Release V1.0 is the exact survival game except there is two players and two cameras in this version.
+
+# Beta-Release:
+There is a pre-release of V2.0, but currently the files are 1:1 of V1.0 so give me a few hours to complete V2.0
+
 # Credits
 
 Resources - @Unity Team
